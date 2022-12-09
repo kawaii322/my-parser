@@ -1,0 +1,16 @@
+{
+  "name": "mu-lnr.su-parser",
+  "version": "1.0.0",
+  "description": "parser",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cli-progress": "^3.11.2",
+    "node-html-parser": "^5.3.3"
+  }
+}
